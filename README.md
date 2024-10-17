@@ -1,13 +1,13 @@
-##Step 1 Activate venv
+### Step 1 Activate venv
 
 ```
 venv\Scripts\activate
 ```
 
-##Step 2 Generate file
+### Step 2 Generate file
 
 ```
 python gen.py
 ```
 
-##You’re great
+# You’re great
