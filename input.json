@@ -1,0 +1,24 @@
+{
+  "items": {
+    "1000316386": {
+      "goodID": "1000316386",
+      "image": {
+        "defaultSize": "416x416",
+        "postfixUrl": "/uf/a57/a573f258ae2345546f3d3306211112a0/f1efe003811889d353fdd19ecc515a54.jpeg",
+        "prefixUrl": "https://img-dostavka.magnit.ru/resize/"
+      },
+      "name": "Парацетамол таблетки 500мг 20шт"
+    },
+    "7000000859": {
+      "goodID": "7000000859",
+      "image": {
+        "defaultSize": "416x416",
+        "postfixUrl": "/uf/1c3/1c31776c279c5bc253735fe4ebfa3b04/13a07c4b4e5f534ea745bca2c2debdfd.jpeg",
+        "prefixUrl": "https://img-dostavka.magnit.ru/resize/"
+      },
+      "name": "Пенталгин таблетки 12шт"
+    }
+  },
+  "stores": [],
+  "totalItemsCount": 2
+}

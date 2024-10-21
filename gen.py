@@ -1,7 +1,7 @@
 import json
 from random import uniform, randint
 
-count = 16000
+count = 2
 
 def generate_store():
     def generate_random_coordinate():
@@ -69,7 +69,7 @@ def create_structure(num_stores=count):
 
 if __name__ == "__main__":
     output_struct = create_structure()
-    with open("output.json", "w") as outfile:
+    with open("output32k.json", "w") as outfile:
         json.dump(output_struct, outfile, ensure_ascii=False)
 
-    print("Структура данных успешно создана и сохранена в файл output.json.")
+    print("Структура данных успешно создана и сохранена в файл output32k.json.")
