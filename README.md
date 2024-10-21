@@ -7,7 +7,7 @@ venv\Scripts\activate
 ### Step 2 Generate file
 
 ```
-python gen.py
+python genUnic.py
 ```
 
 # You’re great
